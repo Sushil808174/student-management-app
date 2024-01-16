@@ -27,7 +27,7 @@ The Student Management System is a comprehensive solution designed to simplify t
 
 ## API End-points
 
-## Admin Operatioi - 
+## Admin Operation - 
 ### 1. Admit a Student
 
 - **Endpoint:** `POST /admit-student`
